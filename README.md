@@ -8,9 +8,9 @@
 # 2. Navigate to the Project Directory:
 Change into the directory of the cloned repository:
 
-cd <project-directory>
+cd project-directory
 
-Replace <project-directory> with the name of the project directory.
+Replace project-directory with the name of the project directory.
 
 # 3. Install Dependencies:
 Once you're in the project directory, install the project dependencies using npm or yarn.
