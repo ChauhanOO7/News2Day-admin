@@ -3,7 +3,7 @@
 # 1. Clone the Git Repository:
    Clone the Git repository containing the React application code to your local machine. Use the git clone command followed by the repository URL:
    
-   git clone <repository-url>
+   git clone https://github.com/ChauhanOO7/News2Day-admin.git
 
 # 2. Navigate to the Project Directory:
 Change into the directory of the cloned repository:
