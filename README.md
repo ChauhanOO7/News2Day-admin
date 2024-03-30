@@ -1,4 +1,4 @@
-# How to start with News2Day-admin application:
+# How to start with News2Day-admin application in your local machine:
 
 1. Clone the Git Repository:
 Clone the Git repository containing the React application code to your local machine. Use the git clone command followed by the repository URL:
